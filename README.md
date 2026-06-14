@@ -24,14 +24,13 @@ hr-high-performer-exits-analysis
 │
 ├── README.md                              # Dokumentasi utama proyek
 ├── data/
-│   └── raw_hr_dataset.csv                 # Dataset HR internal mentah
+│   └── hr_dataset_raw.csv                 # Dataset HR internal mentah
 ├── excel/
-│   └── HR_Exits_Analysis_Dashboard.xlsx   # File kerja Excel (Data Processing, Pivot, & Dashboard)
+│   └── hr_dataset_cleaned.xlsx            # File kerja Excel (Data Processing, Pivot, & Dashboard)
 ├── output/
-│   ├── dashboard_preview.png              # Screenshot visualisasi dashboard Excel
-│   └── insight_charts/                    # Chart ekspor untuk keperluan pelaporan
+│   ├── dashboard.png                      # Screenshot visualisasi dashboard Excel
 └── report/
-    └── executive_summary_hr.pdf           # Laporan formal analisis berkas PDF
+    └── hr_analysis_report.pdf             # Laporan formal analisis berkas PDF
 ```
 
 ---
@@ -121,8 +120,6 @@ HR memfasilitasi dan melatih para Line Managers (Supervisor ke atas) di seluruh 
 
 > Visualisasi interaktif dibangun menggunakan **Pivot Tables**, **Slicers**, dan **Dynamic Charts** di Excel untuk kebutuhan pelaporan eksekutif.
 
-*(Dashboard screenshot*
-
 ![Dashboard Overview](output/dashboard.png)
 
 ---
@@ -134,9 +131,10 @@ Data Analytics Portfolio Project · 2026
 
 Focused on transforming raw business data into actionable insights through systematic data cleaning, rigorous exploratory analysis, and business intelligence reporting.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail)](mailto:irvandanugroho08@gmail.com)
+* **LinkedIn:** [irvandanugroho](https://linkedin.com/in/irvandanugroho/)
+* **GitHub:** [Irvanda08](https://github.com/Irvanda08)
+* **Email:** irvandanugroho08@gmail.com
+
 
 ---
 
