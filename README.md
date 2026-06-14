@@ -1,5 +1,9 @@
 # High Performer Exits Analysis: People Analytics & Retention Optimization 📊
 
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![Tools](https://img.shields.io/badge/Tools-Excel%20%7C%20Power%20BI-blue?style=for-the-badge)
+![Domain](https://img.shields.io/badge/Domain-HR%20Analytics-orange?style=for-the-badge)
+
 ## 📌 Business Overview & Problem Statement
 
 Mempertahankan talenta terbaik (*high performers*) merupakan salah satu pilar utama dalam manajemen sumber daya manusia (HR) untuk menjaga stabilitas operasional dan daya saing perusahaan. Biaya yang timbul akibat pergantian karyawan (*turnover cost*) — mulai dari rekrutmen hingga pelatihan — jauh lebih tinggi dibandingkan biaya retensi.
