@@ -121,7 +121,9 @@ HR memfasilitasi dan melatih para Line Managers (Supervisor ke atas) di seluruh 
 
 > Visualisasi interaktif dibangun menggunakan **Pivot Tables**, **Slicers**, dan **Dynamic Charts** di Excel untuk kebutuhan pelaporan eksekutif.
 
-*(Dashboard screenshot — lihat folder `/output/dashboard_preview.png`)*
+*(Dashboard screenshot*
+
+![Dashboard Overview](output/dashboard.png)
 
 ---
 
